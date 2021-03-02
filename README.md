@@ -22,6 +22,7 @@ Please feel free to branch and contribute!
 * [Why “central cloud teams” fail (and how to save yours)](https://acloudguru.com/blog/engineering/why-central-cloud-teams-fail-and-how-to-save-yours)
 * [The Inclusive Leader 5 Disciplines](https://infokf.kornferry.com/rs/494-VUC-482/images/Korn-Ferry-The-Inclusive-Leader-5-Disciplines.pdf)
 * [Being Successful at Work](https://www.youtube.com/watch?v=GwvmD-DcVQI&feature=youtu.be) - Good Video to watch 
+* [A MANAGER’S BILL OF RESPONSIBILITIES (AND RIGHTS)](https://charity.wtf/2019/10/30/a-managers-bill-of-responsibilities-and-rights/)
 
 
 
