@@ -12,6 +12,7 @@ Please feel free to branch and contribute!
 * [What I’ve Learned in 45 Years in the Software Industry](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/) - Gain some insight
 * [Rules of thumb for a 1x developer](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html) - Lots userful tips and tricks
 * [Computer Science textbooks that are freely available online](https://csgordon.github.io/books.html)- Amazing list of Free Computer Science Books!
+* [How They Test](https://github.com/abhivaikar/howtheytest) - Amazing Github of Links to Testing Philosphies Companies Use
 
 # Mangement
 * [How to fail as a new engineering manager](https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a?gi=d065fd5b3476) - A comprenshive list of what not to do.
