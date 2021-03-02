@@ -16,7 +16,7 @@ Please feel free to branch and contribute!
 
 # Mangement
 * [How to fail as a new engineering manager](https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a?gi=d065fd5b3476) - A comprenshive list of what not to do.
-* 
+* [Humor is such an important leadership trait we teach it at Stanford’s business school](https://www.fastcompany.com/90597762/humor-is-such-an-important-leadership-trait-we-teach-it-at-the-stanford-b-school) - Learn how humor can help you Manage 
 
 
 
