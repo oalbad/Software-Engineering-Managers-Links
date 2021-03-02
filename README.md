@@ -8,3 +8,4 @@ Please feel free to branch and contribute!
 Prerequisite Reading:
 
 * [Test] (http://netmeister.org/blog/software-engineering-laws.html)
+* [The Different CTO Roles](https://www.allthingsdistributed.com/2007/07/the_different_cto_roles.html) - Werner Vogels *(Amazon CTO)*
