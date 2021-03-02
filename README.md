@@ -21,7 +21,7 @@ Please feel free to branch and contribute!
 * [Humor is such an important leadership trait we teach it at Stanford’s business school](https://www.fastcompany.com/90597762/humor-is-such-an-important-leadership-trait-we-teach-it-at-the-stanford-b-school) - Learn how humor can help you Manage 
 * [Why “central cloud teams” fail (and how to save yours)](https://acloudguru.com/blog/engineering/why-central-cloud-teams-fail-and-how-to-save-yours)
 * [The Inclusive Leader 5 Disciplines](https://infokf.kornferry.com/rs/494-VUC-482/images/Korn-Ferry-The-Inclusive-Leader-5-Disciplines.pdf)
-* [Being Successful at Work(https://www.youtube.com/watch?v=GwvmD-DcVQI&feature=youtu.be) - Good Video to watch 
+* [Being Successful at Work](https://www.youtube.com/watch?v=GwvmD-DcVQI&feature=youtu.be) - Good Video to watch 
 
 
 
