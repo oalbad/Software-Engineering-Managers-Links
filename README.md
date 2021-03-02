@@ -5,7 +5,7 @@ Hello everyone! I love to read articles on Managment, Management Style, and Mana
 
 Please feel free to branch and contribute!
 
-Prerequisite Reading:
+# Prerequisite Reading:
 
 * [10 Software Engineering Laws Everybody Loves to Ignore](https://netmeister.org/blog/software-engineering-laws.html) - Laws that you should not ignore
 * [What Silicon Valley "Gets" about Software Engineers that Traditional Companies Do Not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/) - What SV Companies do Right
