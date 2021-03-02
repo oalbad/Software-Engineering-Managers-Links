@@ -7,4 +7,4 @@ Please feel free to branch and contribute!
 
 Prerequisite Reading:
 
-[Test] (http://netmeister.org/blog/software-engineering-laws.html)
+* [Test] (http://netmeister.org/blog/software-engineering-laws.html)
