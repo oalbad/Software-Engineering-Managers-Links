@@ -14,6 +14,7 @@ Please feel free to branch and contribute!
 * [Computer Science textbooks that are freely available online](https://csgordon.github.io/books.html)- Amazing list of Free Computer Science Books!
 * [How They Test](https://github.com/abhivaikar/howtheytest) - Amazing Github of Links to Testing Philosphies Companies Use
 * [Software Development Wastes](https://sedano.org/software-development-wastes/)
+* [Programming Books You Wish You Read Earlier](https://initialcommit.com/blog/programming-books-you-wish-you-read-earlier)
 
 
 # Mangement
