@@ -7,4 +7,4 @@ Please feel free to branch and contribute!
 
 Prerequisite Reading:
 
-<a href="netmeister.org/blog/software-engineering-laws.html"> 10 Software Engineering Laws Everybody Loves to Ignore</a>
+[Test] [http://netmeister.org/blog/software-engineering-laws.html]
